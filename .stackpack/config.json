@@ -1,0 +1,7 @@
+{
+  "name": "Temu v0",
+  "description": "Chat with Temu v0. Generate UI with simple text prompts.",
+  "preview": {
+    "command": "npm run dev"
+  }
+}
