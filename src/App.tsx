@@ -1,7 +1,10 @@
+// @ts-expect-error We're importing a JSX file
+import MyApp from "./components/MyApp";
+
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <MyApp />
     </div>
   );
 }
